@@ -21,9 +21,11 @@ will be used to hire employees
 
 This repository contains the code for a data analysis project structured according to specific requirements. Each aspect of the project has been organized into separate files for clarity and ease of management.
 
-This repository is structured to meet specific project requirements, with each aspect of the analysis segregated into separate files for clarity and ease of management. The .ipynb file handles exploratory data analysis, visualization.py is dedicated to data visualization, model_creation.py contains code for building machine learning models, and additional_modules.py includes any supplementary functionality utilized throughout the project.
+This repository is structured to meet specific project requirements, with each aspect of the analysis segregated into separate files for clarity and ease of management. The exploratory_data_analysis.ipynb file handles exploratory data analysis, visualize.ipynb is dedicated to data visualization, and data_preprocessing.ipynb contains code for data preprocessing, enriching the data for model development and it includes all the preprocessing steps, and so on.
 
+Each file in the repository corresponds to its name and contains information and code relevant to its designated task.
 
+-------------
 <br>
 <br>
 Please explore the repository to access the code files and dive deeper into the project structure and implementation details.
