@@ -17,3 +17,15 @@ The client expects the following insights from this project:
 will be used to hire employees
 
 4. Recommendations to improve employee performance based on insights from analysis.
+<br>
+
+This repository contains the code for a data analysis project structured according to specific requirements. Each aspect of the project has been organized into separate files for clarity and ease of management.
+
+This repository is structured to meet specific project requirements, with each aspect of the analysis segregated into separate files for clarity and ease of management. The .ipynb file handles exploratory data analysis, visualization.py is dedicated to data visualization, model_creation.py contains code for building machine learning models, and additional_modules.py includes any supplementary functionality utilized throughout the project.
+
+
+<br>
+<br>
+Please explore the repository to access the code files and dive deeper into the project structure and implementation details.
+
+Your contributions, suggestions, and feedback are welcome!
